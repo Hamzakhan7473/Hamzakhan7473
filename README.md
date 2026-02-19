@@ -1,76 +1,114 @@
 <!-- Profile README for Abu Hamza Khan -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1100&color=00C9A7&center=true&vCenter=true&width=900&lines=Hello+World!+I'm+Abu+Hamza+Khan;AI+Product+Engineer+%7C+Applied+ML+%7C+LLM+Systems;Hardware-aware+thinking:+latency,+cost,+scale;Always+learning.+Always+shipping." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1100&color=00C9A7&center=true&vCenter=true&width=900&lines=Hello+World!+I'm+Abu+Hamza+Khan;AI+Product+Engineer+%7C+Applied+ML+%7C+LLM+Systems;Designing+intelligence+under+real-world+constraints;Always+learning.+Always+shipping." alt="Typing animation" />
 </div>
 
 <h1 align="center">👋 Hey, I'm Abu Hamza Khan</h1>
 
 <p align="center">
-  🎓 <strong>Master's in Computer Science</strong> @ Pace University (NYC)<br>
-  🚀 <strong>AI Product Engineering · Machine Learning · LLM Systems · Data · Flutter</strong><br>
-  ⚡ <strong>Performance-curious</strong>: GPUs, CUDA concepts, and efficient AI systems<br>
+  🎓 <strong>Master’s in Computer Science</strong> @ Pace University (NYC)<br>
+  🚀 <strong>AI Product Engineering · Applied ML · LLM Systems · RAG · Data · Flutter</strong><br>
+  ⚡ Performance-curious: GPUs, CUDA concepts, efficient inference<br>
   💡 Founder of <strong>Taxora AI</strong>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamzakhan7473&style=flat-square&color=00C9A7" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/AI%20Product%20Engineer-00C9A7?style=for-the-badge" alt="AI Product Engineer" />
-  <img src="https://img.shields.io/badge/Applied%20ML-111827?style=for-the-badge" alt="Applied ML" />
-  <img src="https://img.shields.io/badge/LLM%20Systems-0D1117?style=for-the-badge" alt="LLM Systems" />
-  <img src="https://img.shields.io/badge/GPU%20%26%20Performance-CUDA--curious?style=for-the-badge&color=1F2937" alt="GPU & Performance" />
-</div>
 
 ---
 
 ## 🎯 About Me
 
-I’m **Abu Hamza Khan** — a CS Master’s student in NYC who enjoys turning ML ideas into **usable products**.
+I’m **Abu Hamza Khan** — a builder focused on turning machine learning and LLM capabilities into **usable, decision-driven systems**.
 
-What I care about:
-- **Shipping** AI features that work outside the notebook  
-- Designing **LLM pipelines** (routing, RAG patterns, structured outputs)  
-- Building **API-first** systems that can scale  
-- Learning the **performance side** of AI (latency, throughput, GPUs, CUDA concepts)
+What I enjoy working on:
 
-🌍 **NYC, USA** · 🧠 Curious by default · 🎯 Always iterating
+- Applied Machine Learning & Intelligent Pipelines  
+- LLM-powered architectures & orchestration patterns  
+- Retrieval-Augmented Generation (RAG) systems  
+- API-first AI services & inference workflows  
+- Performance & compute-aware system design  
+
+🌍 NYC, USA · 🧠 Curious by default · 🎯 Iterative by nature
 
 ---
 
-## 🏗 Product Engineering Approach
+## 🏗 Product Engineering Perspective
 
-I like building systems where **models meet product constraints**:
+I’m particularly interested in problems where **model behavior meets product constraints**:
+
 - Latency vs quality vs cost trade-offs  
-- Failure handling (bad inputs, missing context, flaky tools)  
-- Clean APIs, observable pipelines, and iterative improvements  
-- UX that makes AI feel trustworthy (not random)
+- Failure handling & unpredictable inputs  
+- Observability, tracing, and debugging of AI workflows  
+- Designing APIs around ML / LLM systems  
+- UX patterns that make AI outputs reliable & interpretable  
+
+I enjoy building systems that remain useful outside of demos and notebooks.
 
 ---
 
-## ⚡ GPU / CUDA Curiosity (Performance Engineering)
+## ⚡ GPU / Performance Curiosity
 
-I’m actively exploring how modern AI systems use **parallelism and hardware awareness** to unlock speed:
-- GPU-accelerated workloads & parallel compute mental models  
-- CUDA concepts (kernels, memory, throughput vs latency thinking)  
-- Efficient inference patterns and performance trade-offs  
-- WebGPU / on-device style execution (where applicable)
+I actively explore the performance side of AI systems:
 
-(If computation becomes the bottleneck… I get interested.)
+- GPU-accelerated workloads & parallel computation concepts  
+- CUDA mental models (kernels, memory, throughput thinking)  
+- Efficient inference & compute trade-offs  
+- Hardware-aware optimization mindset  
+
+When computation becomes the bottleneck, engineering decisions become interesting.
 
 ---
 
-## 🛠 Core Stack
+## 🧰 Core Stack (Applied AI / ML / LLM Systems)
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00C9A7)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00C9A7)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00C9A7)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00C9A7)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00C9A7)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00C9A7)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00C9A7)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00C9A7)
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00C9A7" />
+
+<!-- Applied ML / DL -->
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/XGBoost-0D1117?style=for-the-badge&logoColor=00C9A7" />
+
+<!-- LLM / RAG / Orchestration -->
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-0D1117?style=for-the-badge&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/Embeddings%20%26%20Retrieval-0D1117?style=for-the-badge&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=for-the-badge&logo=openai&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=google&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logoColor=00C9A7" />
+
+<!-- Data / Analytics -->
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-0D1117?style=for-the-badge&logoColor=00C9A7" />
+
+<!-- Backend / APIs -->
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logoColor=00C9A7" />
+
+<!-- Infra / Systems -->
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/Model%20Pipelines-0D1117?style=for-the-badge&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/Inference%20Systems-0D1117?style=for-the-badge&logoColor=00C9A7" />
+
+<!-- Observability -->
+<img src="https://img.shields.io/badge/LangSmith-0D1117?style=for-the-badge&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/Tracing%20%26%20Debugging-0D1117?style=for-the-badge&logoColor=00C9A7" />
+
+<!-- GPU -->
+<img src="https://img.shields.io/badge/GPU%20Workloads-0D1117?style=for-the-badge&logo=nvidia&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/CUDA%20Concepts-0D1117?style=for-the-badge&logo=nvidia&logoColor=00C9A7" />
+
+<!-- Product / Frontend -->
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00C9A7" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00C9A7" />
 
 </div>
 
@@ -79,113 +117,47 @@ I’m actively exploring how modern AI systems use **parallelism and hardware aw
 ## 🏆 Featured Projects
 
 ### 🧠 Brain Tumor Classification with Neural Networks *(Latest)*
-> Deep learning system for MRI image classification — built to distinguish brain tumor types using CNN-based architectures.
+Deep learning system for MRI image classification using CNN-based architectures.
 
-🔗 **Project:** https://github.com/Hamzakhan7473/Brain-Tumor-Classification-with-Neural-Networks  
-🛠️ **Stack:** Python · TensorFlow/Keras · OpenCV  
-✨ **Highlights:**
-- Image preprocessing + augmentation pipeline for robust training  
-- CNN training workflow with evaluation metrics (confusion matrix, accuracy curves)  
-- Inference-ready scripts + reproducible notebooks
+🔗 https://github.com/Hamzakhan7473/Brain-Tumor-Classification-with-Neural-Networks  
 
 ---
 
 ### 📊 Personalized X Recommendation Algorithm
-> A personalization-focused recommendation engine that ranks content using collaborative + content-based signals.
+Personalization & ranking system exploring collaborative + content-based signals.
 
-🔗 **Project:** https://github.com/Hamzakhan7473/Personalized-X-Recommendation-Algorithm  
-🛠️ **Stack:** Python · Pandas · NumPy · Scikit-learn  
-✨ **Highlights:**
-- Candidate generation (similarity/embedding-style signals) + ranking pipeline  
-- Modular design for plugging into product workflows  
-- Precision/recall evaluation + user-level insights
+🔗 https://github.com/Hamzakhan7473/Personalized-X-Recommendation-Algorithm  
 
 ---
 
 ### 🤖 Autonomous ML Agent
-> LLM-orchestrated ML pipeline that ingests datasets, cleans data, trains models, and iterates toward target metrics.
+LLM-orchestrated ML workflow with dataset ingestion, training, and optimization loops.
 
-🔗 **Project:** https://github.com/Hamzakhan7473/Autonomous-ML-Agent  
-🛠️ **Stack:** Python · FastAPI · Scikit-learn · Docker  
-✨ **Focus:**
-- LLM-assisted decisions for workflow control  
-- Iterative optimization loops  
-- Turning pipelines into callable services
-
----
-
-### 🎨 Neural Style Transfer (WebAssembly)
-> Real-time browser inference using ONNX + WebAssembly + WebGPU acceleration (privacy-first).
-
-🔗 **Project:** https://github.com/Hamzakhan7473/Neural-Style-Transfer-with-WebAssembly  
-🛠️ **Stack:** Rust · WASM · ONNX · WebGPU
+🔗 https://github.com/Hamzakhan7473/Autonomous-ML-Agent  
 
 ---
 
 ### 🧠 Intelligent LLM Router
-> Routes prompts across multiple LLMs based on cost/latency/complexity trade-offs.
+Cost & latency-aware routing across multiple LLM providers.
 
-🔗 **Project:** https://github.com/Hamzakhan7473/Intelligent-LLM-Router  
-🛠️ **Stack:** Python · Multi-LLM APIs · LangChain patterns  
-✨ **Focus:**
-- Latency-aware routing logic  
-- Cost vs quality optimization  
-- Monitoring-friendly design
+🔗 https://github.com/Hamzakhan7473/Intelligent-LLM-Router  
 
 ---
 
-### 🏢 Taxora AI *(Flagship — in progress)*
-> AI-assisted tax & finance platform exploring OCR → extraction → reasoning → human-readable guidance.
-
-🔗 **Project:** https://github.com/Hamzakhan7473 *(private builds)*  
-🛠️ **Stack:** Python (Flask) · spaCy · Gemini · RAG patterns · Flutter · OCR  
-✨ **Focus:**
-- Document understanding (OCR + structured extraction)
-- VAT / tax logic + decision systems
-- Product UX: clean, explainable outputs (not raw JSON)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hamzakhan7473&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=FFFFFF&icon_color=00C9A7" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hamzakhan7473&theme=radical&hide_border=true&background=0D1117&stroke=00C9A7&ring=00C9A7&fire=00C9A7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C9A7&sideLabels=FFFFFF&dates=FFFFFF" />
-</div>
+### 🏢 Taxora AI *(In Progress)*
+AI-assisted tax & financial reasoning system exploring OCR → extraction → structured decision workflows.
 
 ---
 
 ## 🌐 Connect
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abuhamzakhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C9A7" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Hamzakhan7473">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C9A7" alt="GitHub"/>
-  </a>
-  <!-- Replace with your real email -->
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C9A7" alt="Email"/>
-  </a>
-</div>
-
----
-
-## 🎯 Current Focus
-
-- Building **AI product features** that feel reliable (not random)
-- LLM pipelines: routing + RAG patterns + structured outputs
-- Learning **GPU/performance mental models** (CUDA concepts, parallel compute)
-- Shipping Taxora AI + applied ML projects consistently
+GitHub: https://github.com/Hamzakhan7473  
+LinkedIn: https://www.linkedin.com/in/abuhamzakhan/
 
 ---
 
 ## 💡 Philosophy
 
 <div align="center">
-  <em><strong>Smart systems matter — but usable systems win.</strong></em>
+<strong>Smart systems matter — usable systems win.</strong>
 </div>
